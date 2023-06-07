@@ -1,5 +1,5 @@
 # Python-Recommendation-System
-A Machine Learning project about building a book and movie recommendation systems
+ Machine Learning projects about building a book and movie recommendation systems
 
 What Is a Recommender System?
 Recommender systems are information filtering systems that help deal with the problem of information overload by filtering and segregating information and creating fragments out of large amounts of dynamically generated information according to user’s preferences, interests, or observed behavior about a particular item or items. A Recommender system has the ability to predict whether a particular user would prefer an item or not based on the user’s profile and its historical information. Recommendation systems have also proved to improve the decision making processes and quality. In large e-commerce settings, recommender systems enhance the revenues for marketing, for the fact that they are effective means of selling more products. In scientific libraries, recommender systems support and allow users to move beyond the generic catalogue searches. Therefore, the need to use efficient and accurate recommendation techniques within a system that provides relevant and dependable recommendations for users cannot be neglected. 
