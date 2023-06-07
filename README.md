@@ -1,2 +1,9 @@
 # Python-Recommendation-System
-A Machine Learning project about building a book and movie recommendation system using Python models  
+A Machine Learning project about building a book and movie recommendation systems
+
+What Is a Recommender System?
+Recommender systems are information filtering systems that help deal with the problem of information overload by filtering and segregating information and creating fragments out of large amounts of dynamically generated information according to user’s preferences, interests, or observed behavior about a particular item or items. A Recommender system has the ability to predict whether a particular user would prefer an item or not based on the user’s profile and its historical information. Recommendation systems have also proved to improve the decision making processes and quality. In large e-commerce settings, recommender systems enhance the revenues for marketing, for the fact that they are effective means of selling more products. In scientific libraries, recommender systems support and allow users to move beyond the generic catalogue searches. Therefore, the need to use efficient and accurate recommendation techniques within a system that provides relevant and dependable recommendations for users cannot be neglected. 
+
+Conglomerates like Netflix use a recommendation engine to present their viewers with movie and show suggestions. Amazon, on the other hand, uses its recommendation engine to present customers with product recommendations. While each uses the one for slightly different purposes, both in general have the same goal: to drive sales, boost engagement and customer retention, and deliver more personalized customer experiences. Recommendations typically speed up the searches and make it easier for users to access the content they have always been interested in, and surprise them with several offers they would have never searched for. Doing companies are able to gain new customers by sending out customized emails with links to new offers that meet the recipients’ interests, or suggestions of films and TV shows that suit their particular profiles.
+
+
